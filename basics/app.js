@@ -7,3 +7,5 @@ idadeUsuarioint = parseInt(idadeUsuario)
 
 idadeUsuarioint = idade - idadeUsuarioint
 alert("você tem " + idadeUsuarioint + " anos a menos que " + nome)
+
+document.write("oi")
