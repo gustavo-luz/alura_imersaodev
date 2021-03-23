@@ -15,3 +15,13 @@ git push -u origin main
 git remote add origin https://github.com/gustavo-luz/alura_imersaodev.git
 git branch -M main
 git push -u origin main
+
+
+html: estrutura da pagina
+css: cor, atributos
+js: lógica, alertas
+
+comentário html: <!--  --> 
+js e css: /*  */
+ 
+
