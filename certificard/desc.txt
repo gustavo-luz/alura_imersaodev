@@ -1,0 +1,12 @@
+CERTIFICARD
+PARTICIPE E VÁ MAIS FUNDO
+Nesta últiima aula da Imersão Dev, vamos focar exclusivamente no HTML e CSS e criar nosso próprio certificado do zero.
+
+Conteúdo detalhado dessa aula
+Criamos um certificado do zero;
+Adicionamos o HTML para estruturar nossa página;
+Estilizamos a página com CSS do zero.
+Desafios dessa aula!
+Adicionar um link em cada linha para abrir o projeto no CodePen.
+
+https://www.youtube.com/watch?v=RMCUHUr4jQI
